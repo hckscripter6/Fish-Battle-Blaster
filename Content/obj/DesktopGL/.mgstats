@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/hunte/source/repos/Fish/Content/debug.spritefont","C:/Users/hunte/source/repos/Fish/Content/bin/DesktopGL/debug.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,2.324122
+"C:/Users/hunte/source/repos/Fish/Content/fish.png","C:/Users/hunte/source/repos/Fish/Content/bin/DesktopGL/fish.xnb","TextureProcessor","Texture2DContent",335,4181,0.3146525
+"C:/Users/hunte/source/repos/Fish/Content/projectile.png","C:/Users/hunte/source/repos/Fish/Content/bin/DesktopGL/projectile.xnb","TextureProcessor","Texture2DContent",105,4181,0.0050071
+"C:/Users/hunte/source/repos/Fish/Content/redEnemy.png","C:/Users/hunte/source/repos/Fish/Content/bin/DesktopGL/redEnemy.xnb","TextureProcessor","Texture2DContent",254,4181,0.0150906
