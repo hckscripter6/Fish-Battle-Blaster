@@ -1,4 +1,5 @@
 C:\Users\hunte\source\repos\Fish\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+C:\Users\hunte\source\repos\Fish\bin\DesktopGL\AnyCPU\Debug\Content\debug.xnb
 C:\Users\hunte\source\repos\Fish\bin\DesktopGL\AnyCPU\Debug\Content\fish.xnb
 C:\Users\hunte\source\repos\Fish\bin\DesktopGL\AnyCPU\Debug\Content\projectile.xnb
 C:\Users\hunte\source\repos\Fish\bin\DesktopGL\AnyCPU\Debug\Content\redEnemy.xnb
@@ -12,12 +13,15 @@ C:\Users\hunte\source\repos\Fish\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
 C:\Users\hunte\source\repos\Fish\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
 C:\Users\hunte\source\repos\Fish\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
 C:\Users\hunte\source\repos\Fish\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+C:\Users\hunte\source\repos\Fish\bin\DesktopGL\AnyCPU\Debug\Fish.exe.manifest
+C:\Users\hunte\source\repos\Fish\bin\DesktopGL\AnyCPU\Debug\Fish.application
 C:\Users\hunte\source\repos\Fish\bin\DesktopGL\AnyCPU\Debug\Fish.exe
 C:\Users\hunte\source\repos\Fish\bin\DesktopGL\AnyCPU\Debug\Fish.pdb
 C:\Users\hunte\source\repos\Fish\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
 C:\Users\hunte\source\repos\Fish\obj\Debug\Fish.csprojAssemblyReference.cache
 C:\Users\hunte\source\repos\Fish\obj\Debug\Fish.csproj.CoreCompileInputs.cache
+C:\Users\hunte\source\repos\Fish\obj\Debug\Fish.exe.manifest
+C:\Users\hunte\source\repos\Fish\obj\Debug\Fish.application
 C:\Users\hunte\source\repos\Fish\obj\Debug\Fish.csproj.CopyComplete
 C:\Users\hunte\source\repos\Fish\obj\Debug\Fish.exe
 C:\Users\hunte\source\repos\Fish\obj\Debug\Fish.pdb
-C:\Users\hunte\source\repos\Fish\bin\DesktopGL\AnyCPU\Debug\Content\debug.xnb
